@@ -1,1 +1,1 @@
-# University-Application-
+# UniversityApplication
